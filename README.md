@@ -18,3 +18,5 @@ Statisitical analysis of automobile performance with R
 - While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.
 
 ## T-Tests on Suspension Coils
+<img width="412" alt="Screen Shot 2021-06-29 at 6 11 02 PM" src="https://user-images.githubusercontent.com/77812423/123873991-69eaee00-d905-11eb-935e-f7a53e84578b.png">
+- The p-value incentive for all assembling parcels is 0.06, which is over the 0.05% huge level, which implies that this information isn't genuinely critical and demonstrates solid proof for the invalid theory.

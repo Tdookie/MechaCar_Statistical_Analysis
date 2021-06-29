@@ -24,4 +24,6 @@ Statisitical analysis of automobile performance with R
 <img width="571" alt="Screen Shot 2021-06-29 at 6 14 01 PM" src="https://user-images.githubusercontent.com/77812423/123874229-d36afc80-d905-11eb-9611-018106eddc30.png">
 - A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough (1) for us to reject the null hypothesis.
 
+<img width="573" alt="Screen Shot 2021-06-29 at 6 16 58 PM" src="https://user-images.githubusercontent.com/77812423/123874502-4a07fa00-d906-11eb-9441-09d3e6fc084f.png">
+
 - A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough (0.6072) for us to reject the null hypothesis.

@@ -22,3 +22,4 @@ Statisitical analysis of automobile performance with R
 - The p-value incentive for all assembling parcels is 0.06, which is over the 0.05% huge level, which implies that this information isn't genuinely critical and demonstrates solid proof for the invalid theory.
 
 <img width="571" alt="Screen Shot 2021-06-29 at 6 14 01 PM" src="https://user-images.githubusercontent.com/77812423/123874229-d36afc80-d905-11eb-9611-018106eddc30.png">
+- A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough (1) for us to reject the null hypothesis.

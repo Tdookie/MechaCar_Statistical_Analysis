@@ -16,3 +16,5 @@ Statisitical analysis of automobile performance with R
 - Taking a statistics at rundown insights for the PSI of MechaCar suspension curls the change of the loops is 62.29PSI, which meets the necessities determinations for the MechaCar suspension curls that direct that the difference of the suspension curls should not surpass 100.
 
 - While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.
+
+## T-Tests on Suspension Coils

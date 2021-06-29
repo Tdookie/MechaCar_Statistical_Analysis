@@ -8,3 +8,6 @@ Statisitical analysis of automobile performance with R
 - The incline of this straight model isn't zero in light of the fact that the p-worth of this model is 5.35e-11 which is more modest than the critical degree of 0.05% and furthermore gives adequate proof to dismiss the invalid speculation.
 
 - The straight model predicts the mpg of MechaCar models viably on the grounds that the r-squared worth is 0.7149, which implies about 71% of all mpg expectations will be dictated by this model
+
+## Summary Statistics on Suspension Coils
+- Taking a statistics at rundown insights for the PSI of MechaCar suspension curls the change of the loops is 62.29PSI, which meets the necessities determinations for the MechaCar suspension curls that direct that the difference of the suspension curls should not surpass 100.

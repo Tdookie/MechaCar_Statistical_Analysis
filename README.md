@@ -10,4 +10,9 @@ Statisitical analysis of automobile performance with R
 - The straight model predicts the mpg of MechaCar models viably on the grounds that the r-squared worth is 0.7149, which implies about 71% of all mpg expectations will be dictated by this model
 
 ## Summary Statistics on Suspension Coils
+<img width="342" alt="Screen Shot 2021-06-29 at 6 07 39 PM" src="https://user-images.githubusercontent.com/77812423/123873811-18426380-d905-11eb-9810-5cf555651364.png">
+<img width="492" alt="Screen Shot 2021-06-29 at 6 07 54 PM" src="https://user-images.githubusercontent.com/77812423/123873818-19739080-d905-11eb-8954-7a1b753f15d1.png">
+
 - Taking a statistics at rundown insights for the PSI of MechaCar suspension curls the change of the loops is 62.29PSI, which meets the necessities determinations for the MechaCar suspension curls that direct that the difference of the suspension curls should not surpass 100.
+
+- While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.

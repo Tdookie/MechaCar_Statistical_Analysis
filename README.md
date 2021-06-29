@@ -30,3 +30,5 @@ Statisitical analysis of automobile performance with R
 
 <img width="574" alt="Screen Shot 2021-06-29 at 6 18 57 PM" src="https://user-images.githubusercontent.com/77812423/123874696-8f2c2c00-d906-11eb-9e45-1786ddf8bd72.png">
 - A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis. This lot may be need to be discarded, or at least more closely evaluated.
+
+## Study Design: MechaCar vs Competition
